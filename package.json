@@ -1,0 +1,10 @@
+
+{
+  "name": "praktikum-paas-intan",
+  "version": "1.0.0",
+  "description": "Praktikum AWS Elastic Beanstalk Node.js",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  }
+}
